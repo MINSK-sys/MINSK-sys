@@ -10,8 +10,8 @@
 - 🎯 **Learning Goals:** I am currently focusing on Digital Literacy and my interest lies in Molecular Biology and Genetics. 
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn]
-- 📊 [Kaggle]
+- 💼 LinkedIn - www.linkedin.com/in/minakshi-singh-9734b2373
+- 📊 Kaggle - https://www.kaggle.com/minsks
 
 ---
 *“A professional digital presence is no longer optional — it is expected.”*
