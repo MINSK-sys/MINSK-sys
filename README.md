@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Minakshi Singh.
+### 🎓 B.Tech Student at VIT Bhopal University | Student Digital Ambassador
 
-<!--
-**MINSK-sys/MINSK-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🏫 **Institution:** VIT Bhopal University
+- 📚 **Branch:** School of Bioengineering and Technology
+- 📅 **Expected Graduation:** 2029
+- 🎯 **Learning Goals:** I am currently focusing on Digital Literacy and my interest lies in Molecular Biology and Genetics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- 💼 [LinkedIn]
+- 📊 [Kaggle]
+
+---
+*“A professional digital presence is no longer optional — it is expected.”*
