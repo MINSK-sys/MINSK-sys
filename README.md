@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Minakshi Singh.
-### 🎓 B.Tech Student at VIT Bhopal University | Student Digital Ambassador
+### 🎓 B.Tech Student at VIT Bhopal University |
 
 ---
 
@@ -7,7 +7,7 @@
 - 🏫 **Institution:** VIT Bhopal University
 - 📚 **Branch:** School of Bioengineering and Technology
 - 📅 **Expected Graduation:** 2029
-- 🎯 **Learning Goals:** I am currently focusing on Digital Literacy and my interest lies in Molecular Biology and Genetics. 
+- 🎯 **Learning Goals:**  My interest lies in Molecular Biology and Genetics. 
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn - www.linkedin.com/in/minakshi-singh-9734b2373
